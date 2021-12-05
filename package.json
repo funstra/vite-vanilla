@@ -1,0 +1,12 @@
+{
+  "name": "vanilla_vite",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^2.6.14"
+  }
+}
